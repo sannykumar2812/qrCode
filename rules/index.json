@@ -1,0 +1,13 @@
+{
+    "default": {
+    
+    },
+    "QRCODE":{
+        "link":{
+            "type": "string"
+        },
+        "type":{
+            "type": "string"
+        }
+    }
+}
